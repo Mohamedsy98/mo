@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Android Layout Preview</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome, User!</h1>
+    <h2>Upcoming Trips</h2>
+    <p>Trip 1: From - To</p>
+    <p>Trip 2: From - To</p>
+    <h2>Available Sites</h2>
+    <p>Site 1</p>
+    <p>Site 2</p>
+  </div>
+</body>
+</html>
